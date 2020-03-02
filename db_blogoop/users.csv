@@ -1,0 +1,13 @@
+"id","username","password","first_name","last_name","user_image","timestamp"
+1,"Sibey","secret","Simon","Demeyere","avatar01.png",NULL
+2,"Tweede","secret","Louise","Schellaert","avatar02.png",NULL
+6,"Pranz","secret","Michiel","Nieuw","avatar03.png",NULL
+11,"Nieuwste","5ebe2294ecd0e0f08eab7690d2a6ee69","a","b",NULL,NULL
+12,"Nieuwste","5ebe2294ecd0e0f08eab7690d2a6ee69","a","b",NULL,NULL
+13,"Nieuwste","5ebe2294ecd0e0f08eab7690d2a6ee69","a","b",NULL,NULL
+14,"nieuwer","5ebe2294ecd0e0f08eab7690d2a6ee69","c","d",NULL,"2020-02-18 14:25:40"
+15,"nieuwer","5ebe2294ecd0e0f08eab7690d2a6ee69","c","d",NULL,NULL
+16,"nieuwer","5ebe2294ecd0e0f08eab7690d2a6ee69","c","d",NULL,"2020-02-18 16:12:00"
+17,"Test User","test","Test first","Test last","airplane-flight.png",NULL
+21,"username","secret","firstname","lastname","facebook.png",NULL
+22,"nieuw","secret","firstname","lastname","SD card.jpg",NULL
